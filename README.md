@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hey there 👋
+My name is Juan Jose Gini
 
+👷 I'm an  Electromechanical Engineer
+
+📚 I'm currently learning 🐍 Python, 💽 SQL, 📊 Tableau
 <!--
 **qbk90/qbk90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
